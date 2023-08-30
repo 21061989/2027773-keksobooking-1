@@ -1,5 +1,6 @@
 import { generationRandomNumber, getRandomArr, getArrayRandElement, getRandomNumber } from './util.js';
 
+
 const OFFER_COUNT = 10;
 const TITLE = 'Заголовок';
 const LAT_MIN = 35.65;
